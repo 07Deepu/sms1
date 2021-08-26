@@ -72,7 +72,7 @@
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1">
           <h1> Student Management System </h1>
           <h2> The Expert In Anything Is A Beginner</h2>
-          <a href="student/index.html" class="btn-get-started scrollto" >REGISTER HERE </a>
+<!--           <a href="student/index.html" class="btn-get-started scrollto" >REGISTER HERE </a> -->
         </div>
      
         <div class="col-lg-6 order-1 order-lg-2 hero-img">
